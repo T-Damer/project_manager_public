@@ -6,7 +6,7 @@
 
 # Getting Started
 
-First clone into repo — `git clone https://github.com/T-Damer/project_manager`
+First clone into repo — `git clone https://github.com/T-Damer/project_manager_public`
 
 Run `yarn` to install dependencies
 
